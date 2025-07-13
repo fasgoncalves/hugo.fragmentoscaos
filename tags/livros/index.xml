@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Livros on 📚 Biblioteca Livre em Fragmentos de Caos</title>
+    <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/livros/</link>
+    <description>Recent content in Livros on 📚 Biblioteca Livre em Fragmentos de Caos</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/livros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista com os autores de A República dos Esquemas</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/entrevistas/entrevista-autores-republica-esquemas/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/entrevistas/entrevista-autores-republica-esquemas/</guid>
+      <description>Francisco Gonçalves e Augustus Veritas falam sobre a criação, intenções e impacto do livro A República dos Esquemas.</description>
+    </item>
+  </channel>
+</rss>

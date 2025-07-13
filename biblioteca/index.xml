@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bibliotecas on 📚 Biblioteca Livre em Fragmentos de Caos</title>
+    <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/biblioteca/</link>
+    <description>Recent content in Bibliotecas on 📚 Biblioteca Livre em Fragmentos de Caos</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>pt-pt</language>
+    <atom:link href="https://fasgoncalves.github.io/hugo.fragmentoscaos/biblioteca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biblioteca Completa de Fragmentos do Caos</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/biblioteca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/biblioteca/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;pt&#34;&gt;
+&lt;head&gt;
+  &lt;meta charset=&#34;UTF-8&#34;&gt;
+  &lt;title&gt;Biblioteca Fragmentos do Caos&lt;/title&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+  &lt;style&gt;
+    body { font-family: Georgia, serif; margin: 40px; background: #fafafa; color: #222; }
+    h1 { color: indigo; font-size: 2.5em; text-align: center; margin-bottom: 40px; }
+    .grelha { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+    .livro { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.06); display: flex; flex-direction: column; align-items: center; text-align: center; border-top: 6px solid indigo; }
+    .livro img { max-width: 160px; height: auto; border-radius: 4px; margin-bottom: 15px; }
+    .livro h2 { font-size: 1.2em; color: #333; margin-bottom: 10px; }
+    .livro p { font-size: 0.95em; color: #444; margin-bottom: 15px; }
+    .btn { display: inline-block; padding: 10px 20px; background: indigo; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; }
+    @media (max-width: 600px) {
+      .livro p { font-size: 0.9em; }
+      .btn { padding: 8px 16px; font-size: 0.9em; }
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1&gt;Biblioteca Livre de Fragmentos do Caos&lt;/h1&gt;
+  &lt;div class=&#34;grelha&#34;&gt;
+
+    &lt;div class=&#34;livro&#34;&gt;
+      &lt;img src=&#34;../Covers/republica-dos-esquemas.jpg&#34; alt=&#34;Capa de A República dos Esquemas&#34;&gt;
+      &lt;h2&gt;A República dos Esquemas&lt;/h2&gt;
+      &lt;p&gt;Uma sátira cortante e crítica sobre os esquemas de corrupção, impunidade e silêncios cúmplices em Portugal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crítica Social on 📚 Biblioteca Livre em Fragmentos de Caos</title>
+    <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/cr%C3%ADtica-social/</link>
+    <description>Recent content in Crítica Social on 📚 Biblioteca Livre em Fragmentos de Caos</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/cr%C3%ADtica-social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O Declínio da Educação</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/o-declinio-da-educacao/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/o-declinio-da-educacao/</guid>
+      <description>Um retrato profundo e satírico do colapso silencioso do sistema educativo português e das suas implicações sociais.</description>
+    </item>
+    <item>
+      <title>O Grande Roubo da República</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/o-grande-roubo-da-republica/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/o-grande-roubo-da-republica/</guid>
+      <description>Um livro de denúncia feroz, sátira política e crítica social sobre os últimos 50 anos de corrupção, compadrio e decadência institucional em Portugal.</description>
+    </item>
+  </channel>
+</rss>

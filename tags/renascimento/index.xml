@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Renascimento on 📚 Biblioteca Livre em Fragmentos de Caos</title>
+    <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/renascimento/</link>
+    <description>Recent content in Renascimento on 📚 Biblioteca Livre em Fragmentos de Caos</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/renascimento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portugal – Renascer das Cinzas</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/portugal-renascer-das-cinzas/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/portugal-renascer-das-cinzas/</guid>
+      <description>Um manifesto lúcido, poético e acessível sobre a regeneração ética, social e política de Portugal, escrito com coragem e esperança.</description>
+    </item>
+  </channel>
+</rss>
