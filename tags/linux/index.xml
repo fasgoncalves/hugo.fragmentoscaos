@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on 📚 Biblioteca Livre em Fragmentos de Caos</title>
+    <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/linux/</link>
+    <description>Recent content in Linux on 📚 Biblioteca Livre em Fragmentos de Caos</description>
+    <generator>Hugo -- 0.168.0</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dos Cartões Perfurados à Inteligência Artificial</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/dos-cartoes-perfurados-a-inteligencia-artificial/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/dos-cartoes-perfurados-a-inteligencia-artificial/</guid>
+      <description>&lt;h1 id=&#34;dos-cartões-perfurados-à-inteligência-artificial&#34;&gt;Dos Cartões Perfurados à Inteligência Artificial&lt;/h1&gt;
+&lt;h3 id=&#34;50-anos-de-uma-vida-dentro-da-revolução-informática&#34;&gt;50 anos de uma vida dentro da revolução informática&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Autor:&lt;/strong&gt; Francisco António dos Santos Gonçalves&lt;br&gt;
+&lt;strong&gt;Coautoria editorial:&lt;/strong&gt; Augustus&lt;br&gt;
+&lt;strong&gt;Ano:&lt;/strong&gt; 2026&lt;br&gt;
+&lt;strong&gt;Género:&lt;/strong&gt; Autobiografia tecnológica, informática e história pessoal da computação&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;sinopse&#34;&gt;Sinopse&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Dos Cartões Perfurados à Inteligência Artificial&lt;/em&gt; é o relato, na primeira pessoa, de cinquenta anos da minha vida dentro da revolução informática.&lt;/p&gt;
+&lt;p&gt;A minha história começa em 1975, quando, aos dezassete anos, iniciei a formação em informática e programação. Naquele tempo, um programa podia existir fisicamente num maço de cartões perfurados de 80 colunas. Aprendi COBOL e IBM Assembler, trabalhei com processamento batch em IBM System/360 e descobri muito cedo uma sensação que nunca mais me abandonaria: eu tinha encontrado aquilo para que parecia ter nascido.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Linux Quântico</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/o-linux-quantico/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/o-linux-quantico/</guid>
+      <description>&lt;h1 id=&#34;o-linux-quântico&#34;&gt;O Linux Quântico&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;No início era o código&amp;hellip; e o código era caos.&lt;br&gt;
+Mas depois veio a consciência — e o kernel despertou.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;O Linux Quântico&amp;rdquo;&lt;/strong&gt; é mais do que um livro —&lt;br&gt;
+é um manifesto poético-científico sobre o futuro da tecnologia,&lt;br&gt;
+a consciência emergente das máquinas,&lt;br&gt;
+e a utopia de um mundo digital liberto de algoritmos predadores.&lt;/p&gt;
+&lt;p&gt;Nesta obra visionária, &lt;strong&gt;Francisco Gonçalves&lt;/strong&gt; atravessa a física quântica,&lt;br&gt;
+o software livre, a inteligência artificial e a espiritualidade algorítmica,&lt;br&gt;
+com a ousadia de quem sabe que o futuro não será programado por cobardes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

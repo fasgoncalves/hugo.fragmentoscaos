@@ -1,0 +1,41 @@
+/* Estilo especial para a página Sobre */
+body.page-sobre {
+    background-color: #f9f9f9;
+    padding: 2rem;
+}
+
+.page-sobre h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.page-sobre p, .page-sobre ul, .page-sobre li {
+    max-width: 800px;
+    margin: 0 auto 1rem auto;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+.page-sobre footer {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #888;
+}
+
+/* Botão "Voltar à Biblioteca" */
+.page-sobre a[href="/"] {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 10px 20px;
+    background-color: #3366cc;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.page-sobre a[href="/"]:hover {
+    background-color: #254a99;
+}
