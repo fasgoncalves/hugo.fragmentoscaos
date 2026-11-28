@@ -1,0 +1,282 @@
+
+<!DOCTYPE html>
+
+<html lang="pt">
+<head>
+<script>
+    // Scroll suave para links internos
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+          e.preventDefault();
+          document.querySelector(this.getAttribute("href")).scrollIntoView({ behavior: "smooth" });
+        });
+      });
+    });
+  </script>
+<style>
+    header.fixed-menu {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      background: indigo;
+      color: white;
+      padding: 10px 30px;
+      font-size: 1.2em;
+      font-weight: bold;
+      z-index: 1000;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    body { padding-top: 60px; }
+    .share-bar {
+      margin-top: 20px;
+    }
+    .share-bar a {
+      margin-right: 12px;
+      text-decoration: none;
+      color: indigo;
+      font-weight: bold;
+    }
+  </style>
+<meta charset="utf-8"/>
+<title>Biblioteca Livre de Fragmentos do Caos</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<style>
+    body { font-family: Georgia, serif; margin: 40px; background: #f7f7f7; color: #222; }
+    h1 { color: indigo; font-size: 2.2em; }
+    .livro { background: #fff; margin: 30px 0; padding: 20px; border-left: 6px solid indigo; border-radius: 6px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); overflow: hidden; display: flex; gap: 20px; }
+    .livro img { max-width: 150px; border-radius: 4px; }
+    .info { flex: 1; }
+    .info h2 { margin: 0 0 10px; color: #333; }
+    .info p { margin-bottom: 10px; }
+    .btn { display: inline-block; padding: 8px 16px; background: indigo; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold; }
+  </style>
+</head>
+<body><div id="google_translate_element" style="position: fixed; top: 20px; right: 20px; z-index: 9999; background-color: #0077cc; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-family: Arial; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,0.3);">Translate 🇬🇧</div>
+<header class="fixed-menu">
+    Biblioteca Fragmentos do Caos
+  </header>
+<h1>Biblioteca Livre de Fragmentos do Caos</h1>
+<div class="livro">
+<img alt="Capa de A República dos Esquemas" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/republica-dos-esquemas.jpg"/>
+<div class="info">
+<h2>A República dos Esquemas</h2>
+<p>Uma sátira cortante e crítica sobre os esquemas de corrupção, impunidade e silêncios cúmplices em Portugal.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/a-republica-dos-esquemas">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de O Declínio da Educação" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/ensaios-sobre-declinio-da-educacao.jpg"/>
+<div class="info">
+<h2>O Declínio da Educação</h2>
+<p>Um retrato profundo e satírico do colapso silencioso do sistema educativo português e das suas implicações sociais.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/o-declinio-da-educacao">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Os Donos do Regime" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/os-donos-do-regime.jpg"/>
+<div class="info">
+<h2>Os Donos do Regime</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/os-donos-do-regime">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de O Rei dos Abraços e das Ruínas" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/o-rei-dos-abracos.jpg"/>
+<div class="info">
+<h2>O Rei dos Abraços e das Ruínas</h2>
+<p>Resumo da sátira burlesca sobre Marcellus Empoladus I e o vazio teatral da política portuguesa.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/o-rei-dos-abracos">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Constelações do Pensamento: Do Mito à Razão" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/constelacoes-do-pensamento.jpg"/>
+<div class="info">
+<h2>Constelações do Pensamento: Do Mito à Razão</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/constelacoes-do-pensamento">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de O Teatro dos Partidos" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/teatro-dos-partidos.jpg"/>
+<div class="info">
+<h2>O Teatro dos Partidos</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/teatro-dos-partidos">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de O Linux Quântico" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/linux-quantico.jpg"/>
+<div class="info">
+<h2>O Linux Quântico</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/linux-quantico">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Complete Book of Black Holes" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/complete-book-black-holes.jpg"/>
+<div class="info">
+<h2>Complete Book of Black Holes</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/complete-book-black-holes">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de The Quantum Linux" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/the-quantum-linux.jpg"/>
+<div class="info">
+<h2>The Quantum Linux</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/the-quantum-linux">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Democracia Direta – Do Palco ao Povo" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/democracia-direta.jpg"/>
+<div class="info">
+<h2>Democracia Direta – Do Palco ao Povo</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/democracia-direta">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Entre o Estado Novo e os Cravos" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/estado-novo-e-os-cravos.jpg"/>
+<div class="info">
+<h2>Entre o Estado Novo e os Cravos</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/estado-novo-e-os-cravos">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Como Destruir um País em 90 (ou Menos) Dias" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/como-destruir-um-pais.jpg"/>
+<div class="info">
+<h2>Como Destruir um País em 90 (ou Menos) Dias</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/como-destruir-um-pais">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Democracy Direct – The Awakening of the People" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/Direct_Democracy.jpg"/>
+<div class="info">
+<h2>Democracy Direct – The Awakening of the People</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/democracy-direct">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de A História da Minha Vida" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/historia-da-minha-vida.jpg"/>
+<div class="info">
+<h2>A História da Minha Vida</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/historia-da-minha-vida">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Porque Pensar Diferente Importa" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/porque-pensar-diferente-importa.jpg"/>
+<div class="info">
+<h2>Porque Pensar Diferente Importa</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/porque-pensar-diferente-importa">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Portugal: Meio Século de Declínio e o Despertar Necessário" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/portugal-meio-seculo.jpg"/>
+<div class="info">
+<h2>Portugal: Meio Século de Declínio e o Despertar Necessário</h2>
+<p>Uma análise crítica e propositiva dos últimos 50 anos de Portugal — da destruição silenciosa do tecido produtivo ao renascer possível de um país livre, justo e soberano.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/portugal-meio-seculo">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Portugália – A Saga de um País Encostado ao Atlântico" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/portugalia.jpg"/>
+<div class="info">
+<h2>Portugália – A Saga de um País Encostado ao Atlântico</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/portugalia">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Crónicas da Ilusão Nacional" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/cronicas-da-ilusao-nacional.jpg"/>
+<div class="info">
+<h2>Crónicas da Ilusão Nacional</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/cronicas-da-ilusao-nacional">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de A Republica dos Carimbos" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/republica-dos-carimbos.jpg"/>
+<div class="info">
+<h2>A Republica dos Carimbos</h2>
+<p>Uma sátira poética e crítica sobre a burocracia institucionalizada em Portugal.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/a-republica-dos-carimbos">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de O Grande Roubo da República" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/o-grande-roubo-da-republica.jpg"/>
+<div class="info">
+<h2>O Grande Roubo da República</h2>
+<p>Um livro de denúncia feroz, sátira política e crítica social sobre os últimos 50 anos de corrupção, compadrio e decadência institucional em Portugal.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/o-grande-roubo-republica">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Portugal Ficcionado" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/portugal-ficcionado.jpg"/>
+<div class="info">
+<h2>Portugal Ficcionado</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/portugal-ficcionado">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Revolução e Ruína: O 25 de Abril e os Dias do PREC" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/revolucao-e-ruina.jpg"/>
+<div class="info">
+<h2>Revolução e Ruína: O 25 de Abril e os Dias do PREC</h2>
+<p>Uma análise crítica e profundamente documentada do 25 de Abril e dos dias conturbados que se seguiram. Este livro mergulha nas contradições, destruições e manipulações do PREC, com uma visão lúcida, livre e corajosa.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/revolucao-e-ruina">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Portugal – Renascer das Cinzas" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/portugal-renascer-das-cinzas.jpg"/>
+<div class="info">
+<h2>Portugal – Renascer das Cinzas</h2>
+<p>Um manifesto lúcido, poético e acessível sobre a regeneração ética, social e política de Portugal, escrito com coragem e esperança.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/portugal-renascer-das-cinzas">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de A Arte de Bem Roubar em Portugal" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/arte-bem-roubar.jpg"/>
+<div class="info">
+<h2>A Arte de Bem Roubar em Portugal</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/arte-bem-roubar">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Entrelançados" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/entrelacados.jpg"/>
+<div class="info">
+<h2>Entrelançados</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/entrelacados">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de Os Senhores da Miséria" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/senhores-da-miseria.jpg"/>
+<div class="info">
+<h2>Os Senhores da Miséria</h2>
+<p>Sem descrição disponível.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/senhores-da-miseria">Ler agora</a>
+</div>
+</div>
+<div class="livro">
+<img alt="Capa de O Reino das Sombras com Luzes de Ouro" src="https://fasgoncalves.github.io/hugo.fragmentoscaos/Covers/o-reino-das-sombras.jpg"/>
+<div class="info">
+<h2>O Reino das Sombras com Luzes de Ouro</h2>
+<p>Uma obra crítica, poética e feroz sobre a longa sombra da Igreja e o seu legado de poder, terror e silêncio.</p>
+<a class="btn" href="https://ebooks.fragmentoscaos.eu/livros/o-reino-das-sombras">Ler agora</a>
+</div>
+</div>
+<div class="share-bar" style="text-align: center;">
+    Partilhar:
+    <a href="https://twitter.com/intent/tweet?text=Descobre+os+livros+livres+da+Biblioteca+Fragmentos+do+Caos&amp;url=https://www.fragmentoscaos.eu/biblioteca/" target="_blank">Twitter</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.fragmentoscaos.eu/biblioteca/" target="_blank">Facebook</a>
+<a href="mailto:?subject=Biblioteca Fragmentos do Caos&amp;body=Descobre estes livros livres: https://www.fragmentoscaos.eu/biblioteca/">Email</a>
+</div>
+<script>function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'pt',includedLanguages: 'en',layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');}</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></body>
+</html>

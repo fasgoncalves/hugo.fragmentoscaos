@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Conhecimento on 📚 Biblioteca Livre em Fragmentos de Caos</title>
+    <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/conhecimento/</link>
+    <description>Recent content in Conhecimento on 📚 Biblioteca Livre em Fragmentos de Caos</description>
+    <generator>Hugo -- 0.170.1</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fasgoncalves.github.io/hugo.fragmentoscaos/tags/conhecimento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saber em Comum</title>
+      <link>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/saber-em-comum/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://fasgoncalves.github.io/hugo.fragmentoscaos/livros/saber-em-comum/</guid>
+      <description>&lt;h1 id=&#34;saber-em-comum&#34;&gt;Saber em Comum&lt;/h1&gt;
+&lt;h3 id=&#34;ciência-aberta-cidadania-e-inteligência-artificial-generativa&#34;&gt;Ciência Aberta, Cidadania e Inteligência Artificial Generativa&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Autor:&lt;/strong&gt; Francisco Gonçalves&lt;br&gt;
+&lt;strong&gt;Ano:&lt;/strong&gt; 2026&lt;br&gt;
+&lt;strong&gt;Género:&lt;/strong&gt; Ensaio de divulgação científica, tecnológica e cívica&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;sinopse&#34;&gt;Sinopse&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Saber em Comum&lt;/em&gt; parte de uma ideia fundamental: o conhecimento científico é um bem comum, e a forma como o produzimos, partilhamos e utilizamos é uma questão de cidadania.&lt;/p&gt;
+&lt;p&gt;A obra percorre a história da comunicação científica, o acesso aberto às publicações, a partilha de dados e código e os desafios da reprodutibilidade. Explora também a ciência cidadã, a confiança pública na investigação e a participação democrática nas decisões científicas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
